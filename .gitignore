@@ -2,4 +2,5 @@
 settings/Mainnet.toml
 settings/Testnet.toml
 history.txt
-/frontend
+frontend/stacks_admin_app
+frontend/README.md
