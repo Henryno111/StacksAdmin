@@ -196,3 +196,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [ ] Additional chart types
 - [ ] Improved mobile experience
 
+## No-Code Integration
+This project supports the #NoCodeHacking movement by providing:
+- Visual interface for blockchain management
+- Drag-and-drop components
+- Template-based smart contract deployment
+- No programming required for basic operations
+
